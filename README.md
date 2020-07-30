@@ -18,11 +18,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;The installation instruction can be found [here](http://jonathansoma.com/lede/foundations-2018/classes/selenium/selenium-windows-install/).
 
 ### &nbsp;&nbsp;&nbsp;_Modules_
-&nbsp;&nbsp;&nbsp;&nbsp;```pip setup.py install```
+&nbsp;&nbsp;&nbsp;&nbsp;
+```pip setup.py install```
 
 ### &nbsp;&nbsp;&nbsp;_Before using this script_
 ##### &nbsp;&nbsp;&nbsp;You should input _'ChromeDriver'_ address in the following line of gisdA.py
-&nbsp;&nbsp;&nbsp;```pathx = "your/chromeDriver/path"```
+&nbsp;&nbsp;&nbsp;
+```pathx = "your/chromeDriver/path"```
 
 ## Usage
 + <b>Run in Terminal</b>
