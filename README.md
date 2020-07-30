@@ -1,4 +1,4 @@
-# <font size=6><br>_**gisdA.py</br></font> <font size=3>(Advanced Google Image Searching and Downloading)**_</font>
+# <font size=6><br>_**gisdA.py</br></font> <font size=2>(Advanced Google Image Searching and Downloading)**_</font>
 
 ## <font color=white>_Feature_</font>
 <font size=4>Let's <font color=grean><b>_Search_</b></font> and <font color=yellow><b>_Download_</b> </font>google images with <font color=red><b>_Keywords_ </b></font>!!</font>
