@@ -6,12 +6,11 @@
 ## Description
 + Imaging searching python script using Google Engine
 + The script is very simple to use and useful for many purpose
-+ Outputs of the script are searched images and their original links
-+ The script supports <b>_python3_</b> and <b>_Chrome_, _Safari_</b>
++ Outputs are "_searched images with original resolution_" and their original links
++ The script supports <b>_python3_</b> and <b>_Chrome_
 + <font color=yellow>The script searches images from <b> _all scrolled pages_ </b></font>
 + _Progressbar_ is supporting in this version
-![](assets/README-b414761f.png).
-
+![](assets/README-c331ff3f.png)
 
 ## Install requirements
 ### &nbsp;&nbsp;&nbsp;_ChromeDriver_
@@ -23,16 +22,16 @@
 
 ### &nbsp;&nbsp;&nbsp;_Before using this script_
 ##### &nbsp;&nbsp;&nbsp;You should input _'ChromeDriver'_ address in the following line of gisdA.py
-&nbsp;&nbsp;&nbsp;```pathx = "your chromeDriver path"```
+&nbsp;&nbsp;&nbsp;```pathx = "your/chromeDriver/path"```
 
 ## Usage
 + <b>Run in Terminal</b>
 ```
-gisdA.py fMRI 65
+python gisdA.py fMRI 65
 ```
 + <b>Help</b>
 ```
-gisdA.py --help
+python gisdA.py --help
 ```
 
 ## Outputs
