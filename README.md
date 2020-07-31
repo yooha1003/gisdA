@@ -7,7 +7,7 @@
 + Imaging searching python script using Google Engine
 + The script is very simple to use and useful for many purpose
 + Outputs are "_searched images with original resolution_" and their original links
-+ The script supports <b>_python3_</b> and <b>_Chrome_
++ The script supports <b>_python3_</b> and <b>_Chrome_</b>
 + <font color=yellow>The script searches images from <b> _all scrolled pages_ </b></font>
 + _Progressbar_ is supporting in this version
 ![](assets/README-c331ff3f.png)
