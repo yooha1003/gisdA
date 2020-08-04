@@ -38,11 +38,10 @@ python gisdA.py --help
 
 ## Outputs
 * <font size=4>_Downloaded searched images with original resolution_</font>
-![](assets/README-d40800d4.png)
+![](assets/README-bb6b08c3.png)
 
 * <font size=4>_Links  of the searched images_</font>
-![](assets/README-95c20b9e.png)
-
+![](assets/README-449afac9.png)
 
 ## Version history
 + Version 0.1: the script release (2020.07.30)
